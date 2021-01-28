@@ -3,14 +3,14 @@ I’m currently learning React and building personal projects.
 
 ## I love working with
 ### Languages and frameworks
-<p float="left">
-  <img src="src/django.svg" height="40" />  
-  <img src="src/html-5.svg" height="40" />
+<p float="left">  
+  <img src="src/html-5.svg" height="40" />  
+  <img src="src/sass.svg" height="40" />
   <img src="src/javascript.svg" height="40" />
+  <img src="src/react.svg" height="40" />  
   <img src="src/json.svg" height="40" />
   <img src="src/python.svg" height="40" />
-  <img src="src/sass.svg" height="40" />
-  <img src="src/react.svg" height="40" />  
+  <img src="src/django.svg" height="40" />  
 </p>
 
 ### Tools
