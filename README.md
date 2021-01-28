@@ -1,9 +1,16 @@
 # Hi there 👋
 
-I’m currently learning React and building personal projects.
+I am currently learning ReactJS and building personal projects. I am studying Math's, Physics, and Chemistry, and will be studying Software Technology Engineering (B.A.) in spring 2022.
 
+I am looking forward to sharing my projects with you on GitHub. 
 
-## I love working with
+Feel free to contact me about anything: https://www.linkedin.com/in/anders-koed-lauritzen/
+
+Best regards,
+
+Anders Lauritzen, Denmark
+
+## I love developing, these are some of the areas I work with
 ### Languages and frameworks
 <p float="left" >  
   <img src="src/html-5.svg" height="40" />  
