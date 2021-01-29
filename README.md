@@ -14,15 +14,15 @@ Anders Lauritzen, Denmark
 ### These are some of the areas I work with
 #### Languages and frameworks
 <p float="left" >  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="src/html-5.svg" height="40px" /></a>  
-  <img src="src/css3.svg" height="40px" />  
-  <img src="src/sass.svg" height="40px" />
-  <img src="src/javascript.svg" height="40px" />
-  <img src="src/react.svg" height="40px" />  
-  <img src="src/json.svg" height="40px" />
-  <img src="src/mysql.svg" height="40px" />
-  <img src="src/python.svg" height="40px" />
-  <img src="src/django.svg" height="40px" />  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" alt="Link to Mozilla Developer Network - HTML5"><img src="src/html-5.svg" height="40px" /></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" alt="Link to Mozilla Developer Network - CSS"><img src="src/css3.svg" height="40px" /></a>   
+  <a href="https://sass-lang.com/" target="_blank" alt="Link to official Sass website"><img src="src/sass.svg" height="40px" /></a> 
+  <a href="https://www.javascript.com/" target="_blank" alt="Link to official JavaScript website"><img src="src/javascript.svg" height="40px" /></a> 
+  <a href="https://reactjs.org/" target="_blank" alt="Link to official ReactJs website"><img src="src/react.svg" height="40px" /></a>  
+  <a href="https://www.json.org/" target="_blank" alt="Link to official JSON website"><img src="src/json.svg" height="40px" /></a> 
+  <a href="https://www.mysql.com/" target="_blank" alt="Link to official MySql website"><img src="src/mysql.svg" height="40px" /></a> 
+  <a href="https://www.python.org/" target="_blank" alt="Link to official Python website"><img src="src/python.svg" height="40px" /></a> 
+  <a href="https://www.djangoproject.com/" target="_blank" alt="Link to official Django website"><img src="src/django.svg" height="40px" /></a>  
 </p>
 
 #### Tools
