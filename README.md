@@ -8,7 +8,7 @@ Feel free to contact me about anything: https://www.linkedin.com/in/anders-koed-
 
 Best regards,
 
-Anders Lauritzen, Denmark
+Anders Lauritzen
 
 ## I love to learn and I love to build stuff
 ### These are some of the areas I work with
