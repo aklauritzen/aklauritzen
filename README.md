@@ -10,7 +10,7 @@ Best regards,
 
 Anders Lauritzen, Denmark
 
-## I love to learn - I love to build stuff - I love to be a part of the future
+## I love to learn and I love to build stuff
 ### These are some of the areas I work with
 #### Languages and frameworks
 <p float="left" >  
