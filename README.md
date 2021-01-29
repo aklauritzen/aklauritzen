@@ -14,7 +14,7 @@ Anders Lauritzen, Denmark
 ### These are some of the areas I work with
 #### Languages and frameworks
 <p float="left" >  
-  <img src="src/html-5.svg" height="40px" />  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="src/html-5.svg" height="40px" /></a>  
   <img src="src/css3.svg" height="40px" />  
   <img src="src/sass.svg" height="40px" />
   <img src="src/javascript.svg" height="40px" />
