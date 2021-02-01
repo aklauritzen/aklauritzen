@@ -12,7 +12,7 @@ Anders Lauritzen
 
 ## I love to learn and I love to build stuff
 ### These are some of the areas I work with
-#### Languages and frameworks
+#### Languages & frameworks
 <p float="left" >  
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" alt="Link to Mozilla Developer Network - HTML5"><img src="src/html-5.svg" height="40px" /></a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" alt="Link to Mozilla Developer Network - CSS"><img src="src/css3.svg" height="40px" /></a>   
@@ -25,7 +25,7 @@ Anders Lauritzen
   <a href="https://www.djangoproject.com/" target="_blank" alt="Link to official Django website"><img src="src/django.svg" height="40px" /></a>  
 </p>
 
-#### Tools
+#### Software & Tools
 <p float="left">  
   <a href="https://code.visualstudio.com/" target="_blank" alt="Link to official Visual Studio Code website"><img src="src/visual-studio-code.svg" height="40px" /></a>  
   <a href="https://github.com/" target="_blank" alt="Link to official GitHub website"><img src="src/github.svg" height="40px" /></a>  
