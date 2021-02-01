@@ -28,6 +28,7 @@ Anders Lauritzen
 #### Software & Tools
 <p float="left">  
   <a href="https://code.visualstudio.com/" target="_blank" alt="Link to official Visual Studio Code website"><img src="src/visual-studio-code.svg" height="40px" /></a>  
+  <a href="https://www.adobe.com/dk/products/photoshop.html" target="_blank" alt="Link to official Adobe Photoshop website"><img src="src/photoshop.svg" height="40px" /></a>
   <a href="https://github.com/" target="_blank" alt="Link to official GitHub website"><img src="src/github.svg" height="40px" /></a>  
   <a href="https://slack.com/" target="_blank" alt="Link to official Slack website"><img src="src/slack.svg" height="40px" /></a>  
 </p>
