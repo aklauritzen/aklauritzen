@@ -1,15 +1,5 @@
 # Hi there 👋
 
-I am currently learning ReactJS and building personal projects to test out new skills. I am studying Math's, Physics, and Chemistry, and I will be studying Software Technology Engineering (B.A.) in spring 2022.
-
-I am looking forward to sharing my projects with you on GitHub. 
-
-Feel free to contact me about anything: https://www.linkedin.com/in/anders-koed-lauritzen/
-
-Best regards,
-
-Anders Lauritzen
-
 ## I love to learn and I love to build stuff
 ### These are some of the areas I work with
 #### Languages & frameworks
